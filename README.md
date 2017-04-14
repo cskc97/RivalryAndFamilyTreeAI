@@ -1,3 +1,3 @@
 # RivalryAndFamilyTreeAI
 
-This is a simple Prolog based Knowledge Based that utilizes FOL to infer.
+This is a simple Prolog based Knowledge Base that utilizes FOL to perform inference.
